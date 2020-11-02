@@ -1,7 +1,7 @@
 <html>
     <head>
         <metra charset="UTF-8">
-        <title>Beauty Beauty</title>
+        <title>Beauty-Beauty</title>
     </head>
     <body>
         <h1>Beautyful Land</h1>
